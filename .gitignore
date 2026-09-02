@@ -1,3 +1,7 @@
+.mcp.json
+CLAUDE.md
+customModes.yaml
+nav2_contribution_analysis.md
 # Compiled Object files
 *.slo
 *.lo
